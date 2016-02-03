@@ -18,3 +18,6 @@ function.py -----函数定义，以及调用
 知识点
 ======
 
+编码规范
+======
+[知道创宇编码规范](http://blog.knownsec.com/Knownsec_RD_Checklist/PythonCodingRule.pdf)
